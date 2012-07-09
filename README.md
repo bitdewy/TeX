@@ -1,0 +1,4 @@
+TeX
+===
+
+TeX template
